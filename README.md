@@ -11,3 +11,4 @@ Also see:
 
   * [Tabhunter](https://github.com/ericpromislow/tabhunter)
   * [firefox sync tabs to bookmarks file](https://github.com/clach04/firefox_sync_tabs_to_bookmarks_file)
+  * https://github.com/Busindre/dumpzilla
